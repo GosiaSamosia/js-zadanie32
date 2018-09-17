@@ -1,3 +1,4 @@
+/* STARY PLIK - nowy plik .js w katalogu js/main.js */
 var num1 = 2;
 var num2 = 5;
 
